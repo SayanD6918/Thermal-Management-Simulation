@@ -1,0 +1,2 @@
+material,density_kg_per_m3,k_W_per_mK,h_W_per_m2K,convection_area_m2,wall_mass_kg,characteristic_length_m,Bi
+Al 6061-T6 reference,2700.0,154.37,10.0,0.03,0.2,0.0024691358024691358,0.0001599492001340374
